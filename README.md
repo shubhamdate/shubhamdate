@@ -28,8 +28,8 @@
 ## 📱 Connect with Me:
 
 <p align="center">
-<a href="https://www.linkedin.com/in/shubhamdate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhamdate" height="40" width="50" /></a>
-<a href="https://twitter.com/shubhamdate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubhamdate" height="40" width="50" /></a>
-<a href="https://www.leetcode.com/shubhamdate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubhamdate" height="40" width="50" /></a>
+<a href="https://www.linkedin.com/in/shubham-date-422aa81a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhamdate" height="40" width="50" /></a>
+<a href="https://x.com/ShubhamDate9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubhamdate" height="40" width="50" /></a>
+<a href="https://www.leetcode.com/shubham_date" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubhamdate" height="40" width="50" /></a>
 <a href="https://www.hackerrank.com/shubhamdate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shubhamdate" height="40" width="50" /></a>
 </p>
