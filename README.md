@@ -1,7 +1,5 @@
 # Hi there, I'm Shubham Date 👋
 
-![GitHub Logo](https://github.com/shubhamdate/shubhamdate/blob/main/Shubham%20Date%20Github.jpg)
-
 * I am **Shubham Date**, a **Software Developer** based in **Pune, India**. I specialize in **Full-Stack Web Development** and enjoy building innovative solutions.
 
 ---
