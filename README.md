@@ -1,60 +1,21 @@
-Hi there, I'm Shubham Date 👋
+Hi, I'm Shubham Date 👋
 
-I’m Shubham Date, a passionate Software Engineer based in Pune, India 🇮🇳.
-I enjoy building scalable, cloud-ready, and user-focused applications using modern technologies. I’m always excited about solving real-world problems, learning new tools, and contributing to impactful products.
+💻 Software Developer | Java | Spring Boot | Full-Stack
+📍 Pune, India 🇮🇳
 
-🚀 About Me
+I have 3+ years of experience building scalable backend and full-stack applications. I’m passionate about microservices, cloud-native systems, and high-performance architecture, and I enjoy solving complex real-world problems.
 
-💻 3+ years of experience in Full-Stack and Backend Development
+🚀 Tech Stack
 
-🌱 Currently exploring Cloud, Distributed Systems, and Microservices Architecture
+Backend: Java, Spring Boot, Hibernate, Microservices, REST APIs, Kafka
+Frontend: ReactJS, VueJS, HTML, CSS, JavaScript
+Databases: MySQL, MongoDB, SQL
+Cloud & DevOps: Docker, Kubernetes (basic), AWS (basic), Jenkins, CI/CD
+Languages: Java, Python, JavaScript
 
-🤝 Open to collaboration on innovative and scalable projects
+🌱 Currently Learning
 
-🎯 Focused on writing clean, maintainable, and production-grade code
-
-⚡ Strong interest in System Design, Performance Optimization, and Backend Engineering
-
-🛠️ Tech Stack
-🎨 Frontend
-
-ReactJS, VueJS, Vuetify
-
-Flutter
-
-HTML5, CSS3, JavaScript
-
-⚙️ Backend
-
-Spring Boot, Hibernate, Microservices
-
-Node.js, ExpressJS
-
-RESTful API development
-
-💻 Programming Languages
-
-Java, Python, JavaScript
-
-🗄️ Databases
-
-MySQL, SQL, MongoDB
-
-☁️ Tools & Practices
-
-Git, GitHub, CI/CD basics
-
-Agile & Scrum methodologies
-
-Exposure to Docker, Kubernetes, and Cloud platforms
-
-📊 What I Love Working On
-
-✔️ Scalable backend systems
-✔️ Cloud-native applications
-✔️ API design and microservices
-✔️ Performance tuning and optimization
-✔️ End-to-end product development
+Cloud-native systems • Distributed architecture • AI tools • System design
 
 📫 Let’s Connect
 
