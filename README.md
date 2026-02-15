@@ -8,9 +8,13 @@ I have 3+ years of experience building scalable backend and full-stack applicati
 🚀 Tech Stack
 
 Backend: Java, Spring Boot, Hibernate, Microservices, REST APIs, Kafka
+
 Frontend: ReactJS, VueJS, HTML, CSS, JavaScript
+
 Databases: MySQL, MongoDB, SQL
+
 Cloud & DevOps: Docker, Kubernetes (basic), AWS (basic), Jenkins, CI/CD
+
 Languages: Java, Python, JavaScript
 
 🌱 Currently Learning
